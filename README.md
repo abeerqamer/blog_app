@@ -1,8 +1,8 @@
-<h1blog_app</h1>
+<h1>RESTFUL BLOG APP</h1>
 
-A blog website I created using RESTFUL routes and sementic UI :-)
+A blog website I created using RESTFUL routes and sementic UI 
 
-This is a blog website where you can write your blog edit it/ delete them
+This is a blog website where you can write your blog edit it/ delete them 
 
 
 
